@@ -1,0 +1,1 @@
+App requires mapbox token
